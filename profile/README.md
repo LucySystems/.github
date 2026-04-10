@@ -24,7 +24,7 @@ A reflection engine grounded in philosophy, not gamification. Lucy notices rigid
 Nutrition, supplements, training, sleep, and recovery tracked with enough precision to be useful and enough humility to stay honest. Lucy ingests health signals over time, understands what's trending and what's drifting, and coaches with context instead of generic advice. The body domain is where Lucy proves that long-running memory changes what's possible.
 
 **Money.** 
-Markets, positioning, and decision support. Lucy ingests price and options data through a clean provider abstraction, normalizes it, and surfaces what matters without pretending to predict the future. The money domain holds the same boundary as the others: mechanical layers stay mechanical, judgment lives in the strategy engine, and the human stays in the chair.  Money also tracks key metrics focused on wealth building: budgeting, net worth tracking, investment strategy, and portfolio construction and managmenet.
+Markets, positioning, and decision support. Lucy ingests price and options data through a clean provider abstraction, normalizes it, and surfaces what matters without pretending to predict the future. The money domain holds the same boundary as the others: mechanical layers stay mechanical, judgment lives in the strategy engine, and the human stays in the chair.  Money also tracks key metrics focused on wealth building: budgeting, net worth tracking, investment strategy, and portfolio construction and management.
 
 The three domains share one architecture, one memory, and one coaching presence. That's the bet: a person isn't a stack of vertical apps, and the system that supports them shouldn't be either.
 
