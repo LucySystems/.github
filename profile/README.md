@@ -11,7 +11,7 @@ Lucy is organized around a few core ideas:
 - **Presence over productivity.** Coaching that reflects, not coaching that nags. Lucy is designed to hold space, surface tension, and ask the question underneath the question.
 - **Memory that compounds.** Multi-day continuity, trend awareness, and pattern detection.  The system actually knows you over time instead of resetting every conversation.
 - **Boundaries that hold.** Clean separation between what the system observes, what it normalizes, and what it evaluates. Mechanical layers stay mechanical. Judgment lives where judgment belongs.
-- **Built in the open, built to last.** Spec-first. Review-first. No shortcuts that we'll regret in six months.
+- **Built in the open, built to last.** Spec-first. Review-first. No shortcuts that I'll regret in six months.
 
 ### Three domains: mind, body, money
 
@@ -32,7 +32,7 @@ The three domains share one architecture, one memory, and one coaching presence.
 
 I'm looking for collaborators who care about this problem the way I do.  Engineers, designers, coaches, philosophers, and builders who think the current generation of AI products is aiming too low.
 
-If you've ever finished a session with an AI assistant and thought *that was useful, but it wasn't what I actually needed*.  We want to talk to you.
+If you've ever finished a session with an AI assistant and thought *that was useful, but it wasn't what I actually needed*.  I'd love to chat.
 
 ## Get in touch
 
