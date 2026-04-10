@@ -4,7 +4,7 @@
 
 Lucy is not a chatbot. Lucy is a long-running companion architecture: coaching, reflection, memory, and pattern recognition built around the belief that the most valuable thing an AI can do for a person is help them notice what they're already doing and choose differently when it matters.
 
-## What we're building
+## What I'm building
 
 Lucy is organized around a few core ideas:
 
