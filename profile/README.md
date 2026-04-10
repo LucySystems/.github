@@ -39,5 +39,6 @@ If you've ever finished a session with an AI assistant and thought *that was use
 Lucy is led by **Jim Martin**.
 
 - LinkedIn: [jim-martin-28aba213](https://www.linkedin.com/in/jim-martin-28aba213/)
+- Email: artful.shrew@gmail.com
 
 Reach out if you want to build, contribute, or just compare notes on what a serious personal AI system should look like.
