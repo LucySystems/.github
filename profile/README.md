@@ -13,7 +13,17 @@ Lucy is organized around a few core ideas:
 - **Boundaries that hold.** Clean separation between what the system observes, what it normalizes, and what it evaluates. Mechanical layers stay mechanical. Judgment lives where judgment belongs.
 - **Built in the open, built to last.** Spec-first. Review-first. No shortcuts that we'll regret in six months.
 
-Lucy spans health and body data, financial and market awareness, and a reflection engine grounded in philosophy rather than gamification. The throughline is the same in every domain: help the person see clearly, then trust them to act.
+### Three domains: mind, body, money
+
+Lucy's expertise lives in three domains, each treated as a first-class surface of the same system rather than a bolt-on feature.
+
+**Mind.** A reflection engine grounded in philosophy, not gamification. Lucy notices rigidity, surfaces patterns, and meets the person where they actually are. The goal isn't streaks or scores — it's awareness, and the willingness to act on it. This is the layer that makes the rest of Lucy more than a dashboard.
+
+**Body.** Nutrition, supplements, training, sleep, and recovery — tracked with enough precision to be useful and enough humility to stay honest. Lucy ingests health signals over time, understands what's trending and what's drifting, and coaches with context instead of generic advice. The body domain is where Lucy proves that long-running memory changes what's possible.
+
+**Money.** Markets, positioning, and decision support. Lucy ingests price and options data through a clean provider abstraction, normalizes it, and surfaces what matters — without pretending to predict the future. The money domain holds the same boundary as the others: mechanical layers stay mechanical, judgment lives in the strategy engine, and the human stays in the chair.
+
+The three domains share one architecture, one memory, and one coaching presence. That's the bet: a person isn't a stack of vertical apps, and the system that supports them shouldn't be either.
 
 ## Who this is for
 
