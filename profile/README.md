@@ -30,7 +30,7 @@ The three domains share one architecture, one memory, and one coaching presence.
 
 ## Who this is for
 
-We're looking for collaborators who care about this problem the way we do.  Engineers, designers, coaches, philosophers, and builders who think the current generation of AI products is aiming too low.
+I'm looking for collaborators who care about this problem the way I do.  Engineers, designers, coaches, philosophers, and builders who think the current generation of AI products is aiming too low.
 
 If you've ever finished a session with an AI assistant and thought *that was useful, but it wasn't what I actually needed*.  We want to talk to you.
 
